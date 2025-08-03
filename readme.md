@@ -41,7 +41,7 @@ A responsive Netflix landing page clone built with HTML and CSS.
 
 ## Screenshots
 
-![Screenshot](Assets/background.jpg)
+![Screenshot](Screenshot.png)
 
 ## License
 
